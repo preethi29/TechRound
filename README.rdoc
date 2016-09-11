@@ -1,7 +1,7 @@
 == README
 
 The task fetches details about top colleges in US:
-_rake top_colleges_
+rake top_colleges
 
-To start the app, execute _rails server_ and hit _http://localhost:3000/_
+To start the app, execute 'rails server' and hit http://localhost:3000/
 
