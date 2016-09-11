@@ -37,7 +37,7 @@ class CollegesScraper
                 'tuition_fees': search_data['tuition']['displayValue'][0],
                 'total_enrollment': search_data['enrollment']['displayValue'],
                 'acceptance_rate': search_data['acceptance-rate']['displayValue'],
-                'address': college['institution']['city']+ ', '+ college['institution']['state']
+                'address': "#{college['institution']['city']}, #{college['institution']['state']}"
             }
             mapped_college
         }

@@ -4,7 +4,9 @@ describe CollegesScraper do
     before(:each) do
         @college1 = {
             'institution': {
-                'displayName': 'Harvard University'
+                'displayName': 'Harvard University',
+                'city': 'Cambridge',
+                'state': 'MA'
             },
             'ranking': {
                 'displayRank': '#1'
@@ -23,7 +25,9 @@ describe CollegesScraper do
         }
         @college2 = {
             'institution': {
-                'displayName': 'Yale University'
+                'displayName': 'Yale University',
+                'city': 'New Haven',
+                'state': 'CT'
             },
             'ranking': {
                 'displayRank': '#2'
@@ -67,9 +71,9 @@ describe CollegesScraper do
     it 'should map scraped data' do
         mapped_data = CollegesScraper.map_scraped_data([@college1.deep_stringify_keys, @college2.deep_stringify_keys])
         expect(mapped_data).to eq([{:name => 'Harvard University', :rank => '#1', :tuition_fees => '$43,450',
-                                    :total_enrollment => '5,391',:acceptance_rate=> '87%'},
+                                    :total_enrollment => '5,391',:acceptance_rate=> '87%',:address=>"Cambridge, MA"},
                                    {:name => 'Yale University', :rank => '#2', :tuition_fees => '$43,400',
-                                    :total_enrollment => '5,191',:acceptance_rate=> '89%'},
+                                    :total_enrollment => '5,191',:acceptance_rate=> '89%', :address=>"New Haven, CT"},
                                   ])
 
     end
