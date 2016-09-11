@@ -1,0 +1,2242 @@
+[
+  {
+    "name": "Princeton University",
+    "rank": "#1",
+    "tuition_fees": "$43,450",
+    "total_enrollment": "5,391",
+    "acceptance_rate": "7.4%",
+    "address": "Princeton, NJ"
+  },
+  {
+    "name": "Harvard University",
+    "rank": "#2",
+    "tuition_fees": "$45,278",
+    "total_enrollment": "6,694",
+    "acceptance_rate": "6%",
+    "address": "Cambridge, MA"
+  },
+  {
+    "name": "Yale University",
+    "rank": "#3",
+    "tuition_fees": "$47,600",
+    "total_enrollment": "5,477",
+    "acceptance_rate": "6.3%",
+    "address": "New Haven, CT"
+  },
+  {
+    "name": "Columbia University",
+    "rank": "#4",
+    "tuition_fees": "$51,008",
+    "total_enrollment": "6,170",
+    "acceptance_rate": "7%",
+    "address": "New York, NY"
+  },
+  {
+    "name": "Stanford University",
+    "rank": "#4",
+    "tuition_fees": "$46,320",
+    "total_enrollment": "7,019",
+    "acceptance_rate": "5.1%",
+    "address": "Stanford, CA"
+  },
+  {
+    "name": "University of Chicago",
+    "rank": "#4",
+    "tuition_fees": "$50,193",
+    "total_enrollment": "5,681",
+    "acceptance_rate": "8.8%",
+    "address": "Chicago, IL"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "rank": "#7",
+    "tuition_fees": "$46,704",
+    "total_enrollment": "4,512",
+    "acceptance_rate": "7.9%",
+    "address": "Cambridge, MA"
+  },
+  {
+    "name": "Duke University",
+    "rank": "#8",
+    "tuition_fees": "$49,341",
+    "total_enrollment": "6,626",
+    "acceptance_rate": "11.4%",
+    "address": "Durham, NC"
+  },
+  {
+    "name": "University of Pennsylvania",
+    "rank": "#9",
+    "tuition_fees": "$49,536",
+    "total_enrollment": "9,746",
+    "acceptance_rate": "10.4%",
+    "address": "Philadelphia, PA"
+  },
+  {
+    "name": "California Institute of Technology",
+    "rank": "#10",
+    "tuition_fees": "$45,390",
+    "total_enrollment": "983",
+    "acceptance_rate": "8.8%",
+    "address": "Pasadena, CA"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "rank": "#10",
+    "tuition_fees": "$48,710",
+    "total_enrollment": "6,469",
+    "acceptance_rate": "15%",
+    "address": "Baltimore, MD"
+  },
+  {
+    "name": "Dartmouth College",
+    "rank": "#12",
+    "tuition_fees": "$49,506",
+    "total_enrollment": "4,289",
+    "acceptance_rate": "11.5%",
+    "address": "Hanover, NH"
+  },
+  {
+    "name": "Northwestern University",
+    "rank": "#12",
+    "tuition_fees": "$49,047",
+    "total_enrollment": "8,405",
+    "acceptance_rate": "13.1%",
+    "address": "Evanston, IL"
+  },
+  {
+    "name": "Brown University",
+    "rank": "#14",
+    "tuition_fees": "$49,346",
+    "total_enrollment": "6,548",
+    "acceptance_rate": "8.7%",
+    "address": "Providence, RI"
+  },
+  {
+    "name": "Cornell University",
+    "rank": "#15",
+    "tuition_fees": "$49,116",
+    "total_enrollment": "14,453",
+    "acceptance_rate": "14.2%",
+    "address": "Ithaca, NY"
+  },
+  {
+    "name": "Vanderbilt University",
+    "rank": "#15",
+    "tuition_fees": "$43,838",
+    "total_enrollment": "6,851",
+    "acceptance_rate": "13.1%",
+    "address": "Nashville, TN"
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "rank": "#15",
+    "tuition_fees": "$48,093",
+    "total_enrollment": "7,401",
+    "acceptance_rate": "17.1%",
+    "address": "St. Louis, MO"
+  },
+  {
+    "name": "Rice University",
+    "rank": "#18",
+    "tuition_fees": "$42,253",
+    "total_enrollment": "3,926",
+    "acceptance_rate": "15.1%",
+    "address": "Houston, TX"
+  },
+  {
+    "name": "University of Notre Dame",
+    "rank": "#18",
+    "tuition_fees": "$47,929",
+    "total_enrollment": "8,448",
+    "acceptance_rate": "21.1%",
+    "address": "Notre Dame, IN"
+  },
+  {
+    "name": "University of California--Berkeley",
+    "rank": "#20",
+    "tuition_fees": "$38,140 (out-of-state)",
+    "total_enrollment": "27,126",
+    "acceptance_rate": "16%",
+    "address": "Berkeley, CA"
+  },
+  {
+    "name": "Emory University",
+    "rank": "#21",
+    "tuition_fees": "$46,314",
+    "total_enrollment": "7,829",
+    "acceptance_rate": "26.8%",
+    "address": "Atlanta, GA"
+  },
+  {
+    "name": "Georgetown University",
+    "rank": "#21",
+    "tuition_fees": "$48,611",
+    "total_enrollment": "7,595",
+    "acceptance_rate": "17.4%",
+    "address": "Washington, DC"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "rank": "#23",
+    "tuition_fees": "$50,410",
+    "total_enrollment": "6,309",
+    "acceptance_rate": "24.6%",
+    "address": "Pittsburgh, PA"
+  },
+  {
+    "name": "University of California--Los Angeles",
+    "rank": "#23",
+    "tuition_fees": "$35,631 (out-of-state)",
+    "total_enrollment": "29,633",
+    "acceptance_rate": "18.6%",
+    "address": "Los Angeles, CA"
+  },
+  {
+    "name": "University of Southern California",
+    "rank": "#23",
+    "tuition_fees": "$50,210",
+    "total_enrollment": "18,740",
+    "acceptance_rate": "18%",
+    "address": "Los Angeles, CA"
+  },
+  {
+    "name": "University of Virginia",
+    "rank": "#26",
+    "tuition_fees": "$43,822 (out-of-state)",
+    "total_enrollment": "16,483",
+    "acceptance_rate": "29%",
+    "address": "Charlottesville, VA"
+  },
+  {
+    "name": "Tufts University",
+    "rank": "#27",
+    "tuition_fees": "$50,604",
+    "total_enrollment": "5,177",
+    "acceptance_rate": "17.3%",
+    "address": "Medford, MA"
+  },
+  {
+    "name": "Wake Forest University",
+    "rank": "#27",
+    "tuition_fees": "$47,682",
+    "total_enrollment": "4,867",
+    "acceptance_rate": "34.4%",
+    "address": "Winston-Salem, NC"
+  },
+  {
+    "name": "University of Michigan--Ann Arbor",
+    "rank": "#29",
+    "tuition_fees": "$43,377 (out-of-state)",
+    "total_enrollment": "28,395",
+    "acceptance_rate": "32.2%",
+    "address": "Ann Arbor, MI"
+  },
+  {
+    "name": "Boston College",
+    "rank": "#30",
+    "tuition_fees": "$49,324",
+    "total_enrollment": "9,154",
+    "acceptance_rate": "33.9%",
+    "address": "Chestnut Hill, MA"
+  },
+  {
+    "name": "University of North Carolina--Chapel Hill",
+    "rank": "#30",
+    "tuition_fees": "$33,644 (out-of-state)",
+    "total_enrollment": "18,350",
+    "acceptance_rate": "28.5%",
+    "address": "Chapel Hill, NC"
+  },
+  {
+    "name": "New York University",
+    "rank": "#32",
+    "tuition_fees": "$46,170",
+    "total_enrollment": "24,985",
+    "acceptance_rate": "35.5%",
+    "address": "New York, NY"
+  },
+  {
+    "name": "University of Rochester",
+    "rank": "#33",
+    "tuition_fees": "$48,290",
+    "total_enrollment": "6,266",
+    "acceptance_rate": "36.4%",
+    "address": "Rochester, NY"
+  },
+  {
+    "name": "Brandeis University",
+    "rank": "#34",
+    "tuition_fees": "$49,598",
+    "total_enrollment": "3,729",
+    "acceptance_rate": "35.2%",
+    "address": "Waltham, MA"
+  },
+  {
+    "name": "College of William and Mary",
+    "rank": "#34",
+    "tuition_fees": "$40,516 (out-of-state)",
+    "total_enrollment": "6,299",
+    "acceptance_rate": "33%",
+    "address": "Williamsburg, VA"
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "rank": "#36",
+    "tuition_fees": "$32,396 (out-of-state)",
+    "total_enrollment": "14,682",
+    "acceptance_rate": "33.4%",
+    "address": "Atlanta, GA"
+  },
+  {
+    "name": "Case Western Reserve University",
+    "rank": "#37",
+    "tuition_fees": "$44,560",
+    "total_enrollment": "4,911",
+    "acceptance_rate": "38.3%",
+    "address": "Cleveland, OH"
+  },
+  {
+    "name": "University of California--Santa Barbara",
+    "rank": "#37",
+    "tuition_fees": "$38,573 (out-of-state)",
+    "total_enrollment": "20,238",
+    "acceptance_rate": "36.3%",
+    "address": "Santa Barbara, CA"
+  },
+  {
+    "name": "University of California--Irvine",
+    "rank": "#39",
+    "tuition_fees": "$37,455 (out-of-state)",
+    "total_enrollment": "24,489",
+    "acceptance_rate": "37.4%",
+    "address": "Irvine, CA"
+  },
+  {
+    "name": "University of California--San Diego",
+    "rank": "#39",
+    "tuition_fees": "$38,066 (out-of-state)",
+    "total_enrollment": "24,810",
+    "acceptance_rate": "33.5%",
+    "address": "La Jolla, CA"
+  },
+  {
+    "name": "Boston University",
+    "rank": "#41",
+    "tuition_fees": "$48,436",
+    "total_enrollment": "18,017",
+    "acceptance_rate": "34.5%",
+    "address": "Boston, MA"
+  },
+  {
+    "name": "Rensselaer Polytechnic Institute",
+    "rank": "#41",
+    "tuition_fees": "$49,341",
+    "total_enrollment": "5,618",
+    "acceptance_rate": "37.5%",
+    "address": "Troy, NY"
+  },
+  {
+    "name": "Tulane University",
+    "rank": "#41",
+    "tuition_fees": "$49,638",
+    "total_enrollment": "8,353",
+    "acceptance_rate": "28%",
+    "address": "New Orleans, LA"
+  },
+  {
+    "name": "University of California--Davis",
+    "rank": "#41",
+    "tuition_fees": "$38,659 (out-of-state)",
+    "total_enrollment": "27,728",
+    "acceptance_rate": "40.6%",
+    "address": "Davis, CA"
+  },
+  {
+    "name": "University of Illinois--Urbana-Champaign",
+    "rank": "#41",
+    "tuition_fees": "$30,786 (out-of-state)",
+    "total_enrollment": "32,959",
+    "acceptance_rate": "59%",
+    "address": "Champaign, IL"
+  },
+  {
+    "name": "University of Wisconsin--Madison",
+    "rank": "#41",
+    "tuition_fees": "$29,665 (out-of-state)",
+    "total_enrollment": "31,289",
+    "acceptance_rate": "49.8%",
+    "address": "Madison, WI"
+  },
+  {
+    "name": "Lehigh University",
+    "rank": "#47",
+    "tuition_fees": "$46,230",
+    "total_enrollment": "5,062",
+    "acceptance_rate": "34.3%",
+    "address": "Bethlehem, PA"
+  },
+  {
+    "name": "Northeastern University",
+    "rank": "#47",
+    "tuition_fees": "$45,530",
+    "total_enrollment": "13,510",
+    "acceptance_rate": "32.2%",
+    "address": "Boston, MA"
+  },
+  {
+    "name": "Pennsylvania State University--University Park",
+    "rank": "#47",
+    "tuition_fees": "$31,346 (out-of-state)",
+    "total_enrollment": "40,541",
+    "acceptance_rate": "50.3%",
+    "address": "University Park, PA"
+  },
+  {
+    "name": "University of Florida",
+    "rank": "#47",
+    "tuition_fees": "$28,591 (out-of-state)",
+    "total_enrollment": "33,720",
+    "acceptance_rate": "47.1%",
+    "address": "Gainesville, FL"
+  },
+  {
+    "name": "University of Miami",
+    "rank": "#51",
+    "tuition_fees": "$45,724",
+    "total_enrollment": "11,273",
+    "acceptance_rate": "38.2%",
+    "address": "Coral Gables, FL"
+  },
+  {
+    "name": "Ohio State University--Columbus",
+    "rank": "#52",
+    "tuition_fees": "$26,537 (out-of-state)",
+    "total_enrollment": "44,741",
+    "acceptance_rate": "53%",
+    "address": "Columbus, OH"
+  },
+  {
+    "name": "Pepperdine University",
+    "rank": "#52",
+    "tuition_fees": "$48,342",
+    "total_enrollment": "3,451",
+    "acceptance_rate": "35.5%",
+    "address": "Malibu, CA"
+  },
+  {
+    "name": "University of Texas--Austin",
+    "rank": "#52",
+    "tuition_fees": "$34,836 (out-of-state)",
+    "total_enrollment": "39,523",
+    "acceptance_rate": "39.7%",
+    "address": "Austin, TX"
+  },
+  {
+    "name": "University of Washington",
+    "rank": "#52",
+    "tuition_fees": "$33,513 (out-of-state)",
+    "total_enrollment": "30,672",
+    "acceptance_rate": "55.2%",
+    "address": "Seattle, WA"
+  },
+  {
+    "name": "Yeshiva University",
+    "rank": "#52",
+    "tuition_fees": "$39,530",
+    "total_enrollment": "2,817",
+    "acceptance_rate": "81.8%",
+    "address": "New York, NY"
+  },
+  {
+    "name": "George Washington University",
+    "rank": "#57",
+    "tuition_fees": "$50,435",
+    "total_enrollment": "10,740",
+    "acceptance_rate": "43.8%",
+    "address": "Washington, DC"
+  },
+  {
+    "name": "University of Connecticut",
+    "rank": "#57",
+    "tuition_fees": "$34,908 (out-of-state)",
+    "total_enrollment": "18,395",
+    "acceptance_rate": "50%",
+    "address": "Storrs, CT"
+  },
+  {
+    "name": "University of Maryland--College Park",
+    "rank": "#57",
+    "tuition_fees": "$31,144 (out-of-state)",
+    "total_enrollment": "27,056",
+    "acceptance_rate": "47.8%",
+    "address": "College Park, MD"
+  },
+  {
+    "name": "Worcester Polytechnic Institute",
+    "rank": "#57",
+    "tuition_fees": "$45,590",
+    "total_enrollment": "4,235",
+    "acceptance_rate": "43.8%",
+    "address": "Worcester, MA"
+  },
+  {
+    "name": "Clemson University",
+    "rank": "#61",
+    "tuition_fees": "$32,796 (out-of-state)",
+    "total_enrollment": "17,260",
+    "acceptance_rate": "52.8%",
+    "address": "Clemson, SC"
+  },
+  {
+    "name": "Purdue University--West Lafayette",
+    "rank": "#61",
+    "tuition_fees": "$28,804 (out-of-state)",
+    "total_enrollment": "29,255",
+    "acceptance_rate": "59.2%",
+    "address": "West Lafayette, IN"
+  },
+  {
+    "name": "Southern Methodist University",
+    "rank": "#61",
+    "tuition_fees": "$48,190",
+    "total_enrollment": "6,391",
+    "acceptance_rate": "52.4%",
+    "address": "Dallas, TX"
+  },
+  {
+    "name": "Syracuse University",
+    "rank": "#61",
+    "tuition_fees": "$43,318",
+    "total_enrollment": "15,224",
+    "acceptance_rate": "53.2%",
+    "address": "Syracuse, NY"
+  },
+  {
+    "name": "University of Georgia",
+    "rank": "#61",
+    "tuition_fees": "$29,832 (out-of-state)",
+    "total_enrollment": "26,882",
+    "acceptance_rate": "55.8%",
+    "address": "Athens, GA"
+  },
+  {
+    "name": "Brigham Young University--Provo",
+    "rank": "#66",
+    "tuition_fees": "$5,150",
+    "total_enrollment": "27,163",
+    "acceptance_rate": "47%",
+    "address": "Provo, UT"
+  },
+  {
+    "name": "Fordham University",
+    "rank": "#66",
+    "tuition_fees": "$45,623",
+    "total_enrollment": "8,633",
+    "acceptance_rate": "48.1%",
+    "address": "New York, NY"
+  },
+  {
+    "name": "University of Pittsburgh",
+    "rank": "#66",
+    "tuition_fees": "$28,958 (out-of-state)",
+    "total_enrollment": "18,757",
+    "acceptance_rate": "53.1%",
+    "address": "Pittsburgh, PA"
+  },
+  {
+    "name": "University of Minnesota--Twin Cities",
+    "rank": "#69",
+    "tuition_fees": "$20,810 (out-of-state)",
+    "total_enrollment": "34,351",
+    "acceptance_rate": "45.4%",
+    "address": "Minneapolis, MN"
+  },
+  {
+    "name": "Texas A\u0026M University--College Station",
+    "rank": "#70",
+    "tuition_fees": "$26,356 (out-of-state)",
+    "total_enrollment": "47,093",
+    "acceptance_rate": "71%",
+    "address": "College Station, TX"
+  },
+  {
+    "name": "Virginia Tech",
+    "rank": "#70",
+    "tuition_fees": "$27,444 (out-of-state)",
+    "total_enrollment": "24,247",
+    "acceptance_rate": "72.6%",
+    "address": "Blacksburg, VA"
+  },
+  {
+    "name": "American University",
+    "rank": "#72",
+    "tuition_fees": "$43,103",
+    "total_enrollment": "7,706",
+    "acceptance_rate": "45.8%",
+    "address": "Washington, DC"
+  },
+  {
+    "name": "Baylor University",
+    "rank": "#72",
+    "tuition_fees": "$40,198",
+    "total_enrollment": "13,859",
+    "acceptance_rate": "55.4%",
+    "address": "Waco, TX"
+  },
+  {
+    "name": "Rutgers, The State University of New Jersey--New Brunswick",
+    "rank": "#72",
+    "tuition_fees": "$29,521 (out-of-state)",
+    "total_enrollment": "34,544",
+    "acceptance_rate": "60.5%",
+    "address": "Piscataway, NJ"
+  },
+  {
+    "name": "Clark University",
+    "rank": "#75",
+    "tuition_fees": "$41,940",
+    "total_enrollment": "2,301",
+    "acceptance_rate": "54%",
+    "address": "Worcester, MA"
+  },
+  {
+    "name": "Colorado School of Mines",
+    "rank": "#75",
+    "tuition_fees": "$34,828 (out-of-state)",
+    "total_enrollment": "4,456",
+    "acceptance_rate": "36.5%",
+    "address": "Golden, CO"
+  },
+  {
+    "name": "Indiana University--Bloomington",
+    "rank": "#75",
+    "tuition_fees": "$33,741 (out-of-state)",
+    "total_enrollment": "36,419",
+    "acceptance_rate": "76.1%",
+    "address": "Bloomington, IN"
+  },
+  {
+    "name": "Michigan State University",
+    "rank": "#75",
+    "tuition_fees": "$36,360 (out-of-state)",
+    "total_enrollment": "38,786",
+    "acceptance_rate": "66.1%",
+    "address": "East Lansing, MI"
+  },
+  {
+    "name": "Stevens Institute of Technology",
+    "rank": "#75",
+    "tuition_fees": "$47,190",
+    "total_enrollment": "2,892",
+    "acceptance_rate": "43.8%",
+    "address": "Hoboken, NJ"
+  },
+  {
+    "name": "University of Delaware",
+    "rank": "#75",
+    "tuition_fees": "$30,692 (out-of-state)",
+    "total_enrollment": "18,141",
+    "acceptance_rate": "65.9%",
+    "address": "Newark, DE"
+  },
+  {
+    "name": "University of Massachusetts--Amherst",
+    "rank": "#75",
+    "tuition_fees": "$30,689 (out-of-state)",
+    "total_enrollment": "22,252",
+    "acceptance_rate": "61.3%",
+    "address": "Amherst, MA"
+  },
+  {
+    "name": "Miami University--Oxford",
+    "rank": "#82",
+    "tuition_fees": "$30,987 (out-of-state)",
+    "total_enrollment": "15,813",
+    "acceptance_rate": "65.8%",
+    "address": "Oxford, OH"
+  },
+  {
+    "name": "Texas Christian University",
+    "rank": "#82",
+    "tuition_fees": "$40,720",
+    "total_enrollment": "8,647",
+    "acceptance_rate": "48.9%",
+    "address": "Fort Worth, TX"
+  },
+  {
+    "name": "University of California--Santa Cruz",
+    "rank": "#82",
+    "tuition_fees": "$38,189 (out-of-state)",
+    "total_enrollment": "16,277",
+    "acceptance_rate": "57%",
+    "address": "Santa Cruz, CA"
+  },
+  {
+    "name": "University of Iowa",
+    "rank": "#82",
+    "tuition_fees": "$27,890 (out-of-state)",
+    "total_enrollment": "22,354",
+    "acceptance_rate": "81%",
+    "address": "Iowa City, IA"
+  },
+  {
+    "name": "Marquette University",
+    "rank": "#86",
+    "tuition_fees": "$37,170",
+    "total_enrollment": "8,410",
+    "acceptance_rate": "66.7%",
+    "address": "Milwaukee, WI"
+  },
+  {
+    "name": "University of Denver",
+    "rank": "#86",
+    "tuition_fees": "$44,178",
+    "total_enrollment": "5,643",
+    "acceptance_rate": "76.5%",
+    "address": "Denver, CO"
+  },
+  {
+    "name": "University of Tulsa",
+    "rank": "#86",
+    "tuition_fees": "$36,962",
+    "total_enrollment": "3,473",
+    "acceptance_rate": "40.3%",
+    "address": "Tulsa, OK"
+  },
+  {
+    "name": "Binghamton University--SUNY",
+    "rank": "#89",
+    "tuition_fees": "$22,164 (out-of-state)",
+    "total_enrollment": "13,412",
+    "acceptance_rate": "44.1%",
+    "address": "Binghamton, NY"
+  },
+  {
+    "name": "North Carolina State University--Raleigh",
+    "rank": "#89",
+    "tuition_fees": "$24,932 (out-of-state)",
+    "total_enrollment": "24,473",
+    "acceptance_rate": "51.4%",
+    "address": "Raleigh, NC"
+  },
+  {
+    "name": "Stony Brook University--SUNY",
+    "rank": "#89",
+    "tuition_fees": "$23,935 (out-of-state)",
+    "total_enrollment": "16,480",
+    "acceptance_rate": "41.3%",
+    "address": "Stony Brook, NY"
+  },
+  {
+    "name": "SUNY College of Environmental Science and Forestry",
+    "rank": "#89",
+    "tuition_fees": "$17,620 (out-of-state)",
+    "total_enrollment": "1,856",
+    "acceptance_rate": "51.1%",
+    "address": "Syracuse, NY"
+  },
+  {
+    "name": "University of Colorado--Boulder",
+    "rank": "#89",
+    "tuition_fees": "$34,125 (out-of-state)",
+    "total_enrollment": "26,426",
+    "acceptance_rate": "84.2%",
+    "address": "Boulder, CO"
+  },
+  {
+    "name": "University of San Diego",
+    "rank": "#89",
+    "tuition_fees": "$44,586",
+    "total_enrollment": "5,741",
+    "acceptance_rate": "46.3%",
+    "address": "San Diego, CA"
+  },
+  {
+    "name": "University of Vermont",
+    "rank": "#89",
+    "tuition_fees": "$37,874 (out-of-state)",
+    "total_enrollment": "10,992",
+    "acceptance_rate": "73.4%",
+    "address": "Burlington, VT"
+  },
+  {
+    "name": "Florida State University",
+    "rank": "#96",
+    "tuition_fees": "$21,673 (out-of-state)",
+    "total_enrollment": "32,948",
+    "acceptance_rate": "55.4%",
+    "address": "Tallahassee, FL"
+  },
+  {
+    "name": "Saint Louis University",
+    "rank": "#96",
+    "tuition_fees": "$39,226",
+    "total_enrollment": "8,564",
+    "acceptance_rate": "60.3%",
+    "address": "St. Louis, MO"
+  },
+  {
+    "name": "University of Alabama",
+    "rank": "#96",
+    "tuition_fees": "$25,950 (out-of-state)",
+    "total_enrollment": "30,752",
+    "acceptance_rate": "51.1%",
+    "address": "Tuscaloosa, AL"
+  },
+  {
+    "name": "Drexel University",
+    "rank": "#99",
+    "tuition_fees": "$48,791",
+    "total_enrollment": "14,503",
+    "acceptance_rate": "76%",
+    "address": "Philadelphia, PA"
+  },
+  {
+    "name": "Loyola University Chicago",
+    "rank": "#99",
+    "tuition_fees": "$39,179",
+    "total_enrollment": "10,322",
+    "acceptance_rate": "63.3%",
+    "address": "Chicago, IL"
+  },
+  {
+    "name": "University at Buffalo--SUNY",
+    "rank": "#99",
+    "tuition_fees": "$22,290 (out-of-state)",
+    "total_enrollment": "19,829",
+    "acceptance_rate": "57.8%",
+    "address": "Buffalo, NY"
+  },
+  {
+    "name": "Auburn University",
+    "rank": "#102",
+    "tuition_fees": "$28,040 (out-of-state)",
+    "total_enrollment": "20,629",
+    "acceptance_rate": "83.5%",
+    "address": "Auburn, AL"
+  },
+  {
+    "name": "University of Missouri",
+    "rank": "#103",
+    "tuition_fees": "$25,166 (out-of-state)",
+    "total_enrollment": "27,654",
+    "acceptance_rate": "77.7%",
+    "address": "Columbia, MO"
+  },
+  {
+    "name": "University of Nebraska--Lincoln",
+    "rank": "#103",
+    "tuition_fees": "$22,790 (out-of-state)",
+    "total_enrollment": "19,979",
+    "acceptance_rate": "69.9%",
+    "address": "Lincoln, NE"
+  },
+  {
+    "name": "University of New Hampshire",
+    "rank": "#103",
+    "tuition_fees": "$29,532 (out-of-state)",
+    "total_enrollment": "12,840",
+    "acceptance_rate": "80%",
+    "address": "Durham, NH"
+  },
+  {
+    "name": "University of Oregon",
+    "rank": "#103",
+    "tuition_fees": "$30,888 (out-of-state)",
+    "total_enrollment": "20,559",
+    "acceptance_rate": "74.9%",
+    "address": "Eugene, OR"
+  },
+  {
+    "name": "University of Tennessee",
+    "rank": "#103",
+    "tuition_fees": "$30,138 (out-of-state)",
+    "total_enrollment": "21,664",
+    "acceptance_rate": "74.8%",
+    "address": "Knoxville, TN"
+  },
+  {
+    "name": "Illinois Institute of Technology",
+    "rank": "#108",
+    "tuition_fees": "$43,680",
+    "total_enrollment": "3,099",
+    "acceptance_rate": "50.6%",
+    "address": "Chicago, IL"
+  },
+  {
+    "name": "Iowa State University",
+    "rank": "#108",
+    "tuition_fees": "$20,856 (out-of-state)",
+    "total_enrollment": "28,893",
+    "acceptance_rate": "86.9%",
+    "address": "Ames, IA"
+  },
+  {
+    "name": "University of Dayton",
+    "rank": "#108",
+    "tuition_fees": "$39,090",
+    "total_enrollment": "8,529",
+    "acceptance_rate": "59%",
+    "address": "Dayton, OH"
+  },
+  {
+    "name": "University of Oklahoma",
+    "rank": "#108",
+    "tuition_fees": "$20,469 (out-of-state)",
+    "total_enrollment": "21,844",
+    "acceptance_rate": "81.3%",
+    "address": "Norman, OK"
+  },
+  {
+    "name": "University of San Francisco",
+    "rank": "#108",
+    "tuition_fees": "$42,634",
+    "total_enrollment": "6,845",
+    "acceptance_rate": "60.1%",
+    "address": "San Francisco, CA"
+  },
+  {
+    "name": "University of South Carolina",
+    "rank": "#108",
+    "tuition_fees": "$29,440 (out-of-state)",
+    "total_enrollment": "24,863",
+    "acceptance_rate": "65.2%",
+    "address": "Columbia, SC"
+  },
+  {
+    "name": "University of the Pacific",
+    "rank": "#108",
+    "tuition_fees": "$42,934",
+    "total_enrollment": "3,810",
+    "acceptance_rate": "54.9%",
+    "address": "Stockton, CA"
+  },
+  {
+    "name": "Clarkson University",
+    "rank": "#115",
+    "tuition_fees": "$44,630",
+    "total_enrollment": "3,247",
+    "acceptance_rate": "62.1%",
+    "address": "Potsdam, NY"
+  },
+  {
+    "name": "Duquesne University",
+    "rank": "#115",
+    "tuition_fees": "$33,778",
+    "total_enrollment": "5,995",
+    "acceptance_rate": "73.1%",
+    "address": "Pittsburgh, PA"
+  },
+  {
+    "name": "Temple University",
+    "rank": "#115",
+    "tuition_fees": "$25,122 (out-of-state)",
+    "total_enrollment": "28,287",
+    "acceptance_rate": "61.7%",
+    "address": "Philadelphia, PA"
+  },
+  {
+    "name": "University of Kansas",
+    "rank": "#115",
+    "tuition_fees": "$25,731 (out-of-state)",
+    "total_enrollment": "19,343",
+    "acceptance_rate": "91.4%",
+    "address": "Lawrence, KS"
+  },
+  {
+    "name": "University of St. Thomas",
+    "rank": "#115",
+    "tuition_fees": "$36,475",
+    "total_enrollment": "6,234",
+    "acceptance_rate": "86.6%",
+    "address": "St. Paul, MN"
+  },
+  {
+    "name": "University of Utah",
+    "rank": "#115",
+    "tuition_fees": "$26,177 (out-of-state)",
+    "total_enrollment": "23,907",
+    "acceptance_rate": "81.4%",
+    "address": "Salt Lake City, UT"
+  },
+  {
+    "name": "University of Arizona",
+    "rank": "#121",
+    "tuition_fees": "$30,025 (out-of-state)",
+    "total_enrollment": "32,987",
+    "acceptance_rate": "74.6%",
+    "address": "Tucson, AZ"
+  },
+  {
+    "name": "University of California--Riverside",
+    "rank": "#121",
+    "tuition_fees": "$40,973 (out-of-state)",
+    "total_enrollment": "18,782",
+    "acceptance_rate": "58.3%",
+    "address": "Riverside, CA"
+  },
+  {
+    "name": "The Catholic University of America",
+    "rank": "#123",
+    "tuition_fees": "$40,932",
+    "total_enrollment": "3,572",
+    "acceptance_rate": "74.7%",
+    "address": "Washington, DC"
+  },
+  {
+    "name": "DePaul University",
+    "rank": "#123",
+    "tuition_fees": "$36,361",
+    "total_enrollment": "16,153",
+    "acceptance_rate": "69.9%",
+    "address": "Chicago, IL"
+  },
+  {
+    "name": "Michigan Technological University",
+    "rank": "#123",
+    "tuition_fees": "$29,520 (out-of-state)",
+    "total_enrollment": "5,662",
+    "acceptance_rate": "75.5%",
+    "address": "Houghton, MI"
+  },
+  {
+    "name": "Seton Hall University",
+    "rank": "#123",
+    "tuition_fees": "$36,926",
+    "total_enrollment": "5,817",
+    "acceptance_rate": "75.5%",
+    "address": "South Orange, NJ"
+  },
+  {
+    "name": "Colorado State University",
+    "rank": "#127",
+    "tuition_fees": "$27,258 (out-of-state)",
+    "total_enrollment": "23,858",
+    "acceptance_rate": "80.5%",
+    "address": "Fort Collins, CO"
+  },
+  {
+    "name": "New School",
+    "rank": "#127",
+    "tuition_fees": "$42,977",
+    "total_enrollment": "6,695",
+    "acceptance_rate": "65.9%",
+    "address": "New York, NY"
+  },
+  {
+    "name": "Arizona State University--Tempe",
+    "rank": "#129",
+    "tuition_fees": "$24,503 (out-of-state)",
+    "total_enrollment": "39,968",
+    "acceptance_rate": "84.3%",
+    "address": "Tempe, AZ"
+  },
+  {
+    "name": "Louisiana State University--Baton Rouge",
+    "rank": "#129",
+    "tuition_fees": "$26,467 (out-of-state)",
+    "total_enrollment": "25,572",
+    "acceptance_rate": "76.6%",
+    "address": "Baton Rouge, LA"
+  },
+  {
+    "name": "University at Albany--SUNY",
+    "rank": "#129",
+    "tuition_fees": "$22,116 (out-of-state)",
+    "total_enrollment": "12,929",
+    "acceptance_rate": "55.8%",
+    "address": "Albany, NY"
+  },
+  {
+    "name": "University of Arkansas",
+    "rank": "#129",
+    "tuition_fees": "$23,320 (out-of-state)",
+    "total_enrollment": "21,836",
+    "acceptance_rate": "62%",
+    "address": "Fayetteville, AR"
+  },
+  {
+    "name": "University of Illinois--Chicago",
+    "rank": "#129",
+    "tuition_fees": "$26,526 (out-of-state)",
+    "total_enrollment": "16,707",
+    "acceptance_rate": "72.7%",
+    "address": "Chicago, IL"
+  },
+  {
+    "name": "University of Kentucky",
+    "rank": "#129",
+    "tuition_fees": "$24,268 (out-of-state)",
+    "total_enrollment": "22,223",
+    "acceptance_rate": "72.2%",
+    "address": "Lexington, KY"
+  },
+  {
+    "name": "George Mason University",
+    "rank": "#135",
+    "tuition_fees": "$31,598 (out-of-state)",
+    "total_enrollment": "22,343",
+    "acceptance_rate": "66.7%",
+    "address": "Fairfax, VA"
+  },
+  {
+    "name": "Hofstra University",
+    "rank": "#135",
+    "tuition_fees": "$40,460",
+    "total_enrollment": "6,904",
+    "acceptance_rate": "61.6%",
+    "address": "Hempstead, NY"
+  },
+  {
+    "name": "Howard University",
+    "rank": "#135",
+    "tuition_fees": "$23,970",
+    "total_enrollment": "7,013",
+    "acceptance_rate": "48.4%",
+    "address": "Washington, DC"
+  },
+  {
+    "name": "Ohio University",
+    "rank": "#135",
+    "tuition_fees": "$20,512 (out-of-state)",
+    "total_enrollment": "23,571",
+    "acceptance_rate": "74.3%",
+    "address": "Athens, OH"
+  },
+  {
+    "name": "Oregon State University",
+    "rank": "#135",
+    "tuition_fees": "$28,767 (out-of-state)",
+    "total_enrollment": "23,903",
+    "acceptance_rate": "77.8%",
+    "address": "Corvallis, OR"
+  },
+  {
+    "name": "New Jersey Institute of Technology",
+    "rank": "#140",
+    "tuition_fees": "$29,288 (out-of-state)",
+    "total_enrollment": "7,550",
+    "acceptance_rate": "63.5%",
+    "address": "Newark, NJ"
+  },
+  {
+    "name": "Rutgers, The State University of New Jersey--Newark",
+    "rank": "#140",
+    "tuition_fees": "$28,987 (out-of-state)",
+    "total_enrollment": "7,408",
+    "acceptance_rate": "62.8%",
+    "address": "Newark, NJ"
+  },
+  {
+    "name": "University of Cincinnati",
+    "rank": "#140",
+    "tuition_fees": "$26,334 (out-of-state)",
+    "total_enrollment": "24,407",
+    "acceptance_rate": "76%",
+    "address": "Cincinnati, OH"
+  },
+  {
+    "name": "University of Mississippi",
+    "rank": "#140",
+    "tuition_fees": "$20,674 (out-of-state)",
+    "total_enrollment": "18,101",
+    "acceptance_rate": "81.2%",
+    "address": "University, MS"
+  },
+  {
+    "name": "University of Texas--Dallas",
+    "rank": "#140",
+    "tuition_fees": "$31,328 (out-of-state)",
+    "total_enrollment": "14,300",
+    "acceptance_rate": "61.9%",
+    "address": "Richardson, TX"
+  },
+  {
+    "name": "Washington State University",
+    "rank": "#140",
+    "tuition_fees": "$25,567 (out-of-state)",
+    "total_enrollment": "23,867",
+    "acceptance_rate": "80.3%",
+    "address": "Pullman, WA"
+  },
+  {
+    "name": "Kansas State University",
+    "rank": "#146",
+    "tuition_fees": "$22,624 (out-of-state)",
+    "total_enrollment": "20,327",
+    "acceptance_rate": "94.9%",
+    "address": "Manhattan, KS"
+  },
+  {
+    "name": "Missouri University of Science \u0026 Technology",
+    "rank": "#146",
+    "tuition_fees": "$26,152 (out-of-state)",
+    "total_enrollment": "6,522",
+    "acceptance_rate": "85.9%",
+    "address": "Rolla, MO"
+  },
+  {
+    "name": "St. John Fisher College",
+    "rank": "#146",
+    "tuition_fees": "$30,690",
+    "total_enrollment": "2,857",
+    "acceptance_rate": "67.9%",
+    "address": "Rochester, NY"
+  },
+  {
+    "name": "Illinois State University",
+    "rank": "#149",
+    "tuition_fees": "$20,420 (out-of-state)",
+    "total_enrollment": "18,155",
+    "acceptance_rate": "73.9%",
+    "address": "Normal, IL"
+  },
+  {
+    "name": "Oklahoma State University",
+    "rank": "#149",
+    "tuition_fees": "$20,027 (out-of-state)",
+    "total_enrollment": "20,821",
+    "acceptance_rate": "75%",
+    "address": "Stillwater, OK"
+  },
+  {
+    "name": "San Diego State University",
+    "rank": "#149",
+    "tuition_fees": "$18,136 (out-of-state)",
+    "total_enrollment": "28,362",
+    "acceptance_rate": "34.5%",
+    "address": "San Diego, CA"
+  },
+  {
+    "name": "University of Alabama--Birmingham",
+    "rank": "#149",
+    "tuition_fees": "$21,220 (out-of-state)",
+    "total_enrollment": "11,679",
+    "acceptance_rate": "85.7%",
+    "address": "Birmingham, AL"
+  },
+  {
+    "name": "Adelphi University",
+    "rank": "#153",
+    "tuition_fees": "$34,034",
+    "total_enrollment": "5,071",
+    "acceptance_rate": "72.4%",
+    "address": "Garden City, NY"
+  },
+  {
+    "name": "Southern Illinois University--Carbondale",
+    "rank": "#153",
+    "tuition_fees": "$26,390 (out-of-state)",
+    "total_enrollment": "13,461",
+    "acceptance_rate": "81.7%",
+    "address": "Carbondale, IL"
+  },
+  {
+    "name": "St. John's University",
+    "rank": "#153",
+    "tuition_fees": "$38,680",
+    "total_enrollment": "15,765",
+    "acceptance_rate": "62.5%",
+    "address": "Queens, NY"
+  },
+  {
+    "name": "University of Maryland--Baltimore County",
+    "rank": "#156",
+    "tuition_fees": "$23,770 (out-of-state)",
+    "total_enrollment": "11,379",
+    "acceptance_rate": "59.6%",
+    "address": "Baltimore, MD"
+  },
+  {
+    "name": "University of Massachusetts--Lowell",
+    "rank": "#156",
+    "tuition_fees": "$27,400 (out-of-state)",
+    "total_enrollment": "12,986",
+    "acceptance_rate": "62%",
+    "address": "Lowell, MA"
+  },
+  {
+    "name": "University of South Florida",
+    "rank": "#156",
+    "tuition_fees": "$17,325 (out-of-state)",
+    "total_enrollment": "31,067",
+    "acceptance_rate": "47.5%",
+    "address": "Tampa, FL"
+  },
+  {
+    "name": "Virginia Commonwealth University",
+    "rank": "#156",
+    "tuition_fees": "$30,838 (out-of-state)",
+    "total_enrollment": "23,962",
+    "acceptance_rate": "68.9%",
+    "address": "Richmond, VA"
+  },
+  {
+    "name": "University of La Verne",
+    "rank": "#160",
+    "tuition_fees": "$38,560",
+    "total_enrollment": "2,713",
+    "acceptance_rate": "46.6%",
+    "address": "La Verne, CA"
+  },
+  {
+    "name": "Biola University",
+    "rank": "#161",
+    "tuition_fees": "$34,498",
+    "total_enrollment": "4,373",
+    "acceptance_rate": "75.4%",
+    "address": "La Mirada, CA"
+  },
+  {
+    "name": "Florida Institute of Technology",
+    "rank": "#161",
+    "tuition_fees": "$39,290",
+    "total_enrollment": "3,636",
+    "acceptance_rate": "61.6%",
+    "address": "Melbourne, FL"
+  },
+  {
+    "name": "Immaculata University",
+    "rank": "#161",
+    "tuition_fees": "$33,280",
+    "total_enrollment": "2,138",
+    "acceptance_rate": "75.9%",
+    "address": "Immaculata, PA"
+  },
+  {
+    "name": "Maryville University of St. Louis",
+    "rank": "#161",
+    "tuition_fees": "$26,958",
+    "total_enrollment": "2,818",
+    "acceptance_rate": "72%",
+    "address": "St Louis, MO"
+  },
+  {
+    "name": "Mississippi State University",
+    "rank": "#161",
+    "tuition_fees": "$20,142 (out-of-state)",
+    "total_enrollment": "16,536",
+    "acceptance_rate": "71%",
+    "address": "Mississippi State, MS"
+  },
+  {
+    "name": "University of Hawaii--Manoa",
+    "rank": "#161",
+    "tuition_fees": "$31,516 (out-of-state)",
+    "total_enrollment": "14,126",
+    "acceptance_rate": "77.9%",
+    "address": "Honolulu, HI"
+  },
+  {
+    "name": "University of Rhode Island",
+    "rank": "#161",
+    "tuition_fees": "$28,072 (out-of-state)",
+    "total_enrollment": "13,589",
+    "acceptance_rate": "75.7%",
+    "address": "Kingston, RI"
+  },
+  {
+    "name": "Ball State University",
+    "rank": "#168",
+    "tuition_fees": "$25,348 (out-of-state)",
+    "total_enrollment": "16,415",
+    "acceptance_rate": "59.9%",
+    "address": "Muncie, IN"
+  },
+  {
+    "name": "Texas Tech University",
+    "rank": "#168",
+    "tuition_fees": "$21,267 (out-of-state)",
+    "total_enrollment": "28,632",
+    "acceptance_rate": "66.1%",
+    "address": "Lubbock, TX"
+  },
+  {
+    "name": "University of Central Florida",
+    "rank": "#168",
+    "tuition_fees": "$22,467 (out-of-state)",
+    "total_enrollment": "52,532",
+    "acceptance_rate": "49.6%",
+    "address": "Orlando, FL"
+  },
+  {
+    "name": "University of Idaho",
+    "rank": "#168",
+    "tuition_fees": "$21,024 (out-of-state)",
+    "total_enrollment": "9,388",
+    "acceptance_rate": "67.5%",
+    "address": "Moscow, ID"
+  },
+  {
+    "name": "University of Louisville",
+    "rank": "#168",
+    "tuition_fees": "$24,626 (out-of-state)",
+    "total_enrollment": "15,962",
+    "acceptance_rate": "71.9%",
+    "address": "Louisville, KY"
+  },
+  {
+    "name": "University of Maine",
+    "rank": "#168",
+    "tuition_fees": "$28,880 (out-of-state)",
+    "total_enrollment": "9,339",
+    "acceptance_rate": "82.6%",
+    "address": "Orono, ME"
+  },
+  {
+    "name": "University of Wyoming",
+    "rank": "#168",
+    "tuition_fees": "$15,632 (out-of-state)",
+    "total_enrollment": "10,124",
+    "acceptance_rate": "97.7%",
+    "address": "Laramie, WY"
+  },
+  {
+    "name": "Andrews University",
+    "rank": "#175",
+    "tuition_fees": "$27,000",
+    "total_enrollment": "1,805",
+    "acceptance_rate": "37.3%",
+    "address": "Berrien Springs, MI"
+  },
+  {
+    "name": "Azusa Pacific University",
+    "rank": "#175",
+    "tuition_fees": "$34,754",
+    "total_enrollment": "5,918",
+    "acceptance_rate": "81.8%",
+    "address": "Azusa, CA"
+  },
+  {
+    "name": "Edgewood College",
+    "rank": "#175",
+    "tuition_fees": "$26,550",
+    "total_enrollment": "1,935",
+    "acceptance_rate": "76.2%",
+    "address": "Madison, WI"
+  },
+  {
+    "name": "Kent State University",
+    "rank": "#175",
+    "tuition_fees": "$18,212 (out-of-state)",
+    "total_enrollment": "23,328",
+    "acceptance_rate": "84.4%",
+    "address": "Kent, OH"
+  },
+  {
+    "name": "West Virginia University",
+    "rank": "#175",
+    "tuition_fees": "$20,424 (out-of-state)",
+    "total_enrollment": "22,563",
+    "acceptance_rate": "85.8%",
+    "address": "Morgantown, WV"
+  },
+  {
+    "name": "Pace University",
+    "rank": "#180",
+    "tuition_fees": "$41,325",
+    "total_enrollment": "8,694",
+    "acceptance_rate": "85%",
+    "address": "New York, NY"
+  },
+  {
+    "name": "St. Mary's University of Minnesota",
+    "rank": "#180",
+    "tuition_fees": "$31,335",
+    "total_enrollment": "1,904",
+    "acceptance_rate": "74.2%",
+    "address": "Winona, MN"
+  },
+  {
+    "name": "University of New Mexico",
+    "rank": "#180",
+    "tuition_fees": "$20,664 (out-of-state)",
+    "total_enrollment": "20,857",
+    "acceptance_rate": "46.1%",
+    "address": "Albuquerque, NM"
+  },
+  {
+    "name": "University of North Dakota",
+    "rank": "#180",
+    "tuition_fees": "$18,409 (out-of-state)",
+    "total_enrollment": "11,537",
+    "acceptance_rate": "86%",
+    "address": "Grand Forks, ND"
+  },
+  {
+    "name": "University of South Dakota",
+    "rank": "#180",
+    "tuition_fees": "$10,426 (out-of-state)",
+    "total_enrollment": "7,541",
+    "acceptance_rate": "88.8%",
+    "address": "Vermillion, SD"
+  },
+  {
+    "name": "Bowling Green State University",
+    "rank": "#185",
+    "tuition_fees": "$18,034 (out-of-state)",
+    "total_enrollment": "14,099",
+    "acceptance_rate": "53.4%",
+    "address": "Bowling Green, OH"
+  },
+  {
+    "name": "North Dakota State University",
+    "rank": "#185",
+    "tuition_fees": "$11,169 (out-of-state)",
+    "total_enrollment": "12,124",
+    "acceptance_rate": "82.7%",
+    "address": "Fargo, ND"
+  },
+  {
+    "name": "South Dakota State University",
+    "rank": "#187",
+    "tuition_fees": "$10,520 (out-of-state)",
+    "total_enrollment": "10,951",
+    "acceptance_rate": "92%",
+    "address": "Brookings, SD"
+  },
+  {
+    "name": "University of Alabama--Huntsville",
+    "rank": "#187",
+    "tuition_fees": "$20,622 (out-of-state)",
+    "total_enrollment": "5,618",
+    "acceptance_rate": "82%",
+    "address": "Huntsville, AL"
+  },
+  {
+    "name": "University of Houston",
+    "rank": "#187",
+    "tuition_fees": "$24,378 (out-of-state)",
+    "total_enrollment": "32,915",
+    "acceptance_rate": "63%",
+    "address": "Houston, TX"
+  },
+  {
+    "name": "University of Nevada--Reno",
+    "rank": "#187",
+    "tuition_fees": "$20,812 (out-of-state)",
+    "total_enrollment": "16,839",
+    "acceptance_rate": "83.9%",
+    "address": "Reno, NV"
+  },
+  {
+    "name": "University of North Carolina--Greensboro",
+    "rank": "#187",
+    "tuition_fees": "$21,595 (out-of-state)",
+    "total_enrollment": "15,173",
+    "acceptance_rate": "60%",
+    "address": "Greensboro, NC"
+  },
+  {
+    "name": "Western Michigan University",
+    "rank": "#187",
+    "tuition_fees": "$24,917 (out-of-state)",
+    "total_enrollment": "18,889",
+    "acceptance_rate": "84.1%",
+    "address": "Kalamazoo, MI"
+  },
+  {
+    "name": "Widener University",
+    "rank": "#187",
+    "tuition_fees": "$41,224",
+    "total_enrollment": "3,437",
+    "acceptance_rate": "65%",
+    "address": "Chester, PA"
+  },
+  {
+    "name": "Central Michigan University",
+    "rank": "#194",
+    "tuition_fees": "$23,670 (out-of-state)",
+    "total_enrollment": "20,794",
+    "acceptance_rate": "69.3%",
+    "address": "Mount Pleasant, MI"
+  },
+  {
+    "name": "East Carolina University",
+    "rank": "#194",
+    "tuition_fees": "$22,124 (out-of-state)",
+    "total_enrollment": "22,252",
+    "acceptance_rate": "77.3%",
+    "address": "Greenville, NC"
+  },
+  {
+    "name": "South Carolina State University",
+    "rank": "#194",
+    "tuition_fees": "$19,856 (out-of-state)",
+    "total_enrollment": "2,791",
+    "acceptance_rate": "84.5%",
+    "address": "Orangeburg, SC"
+  },
+  {
+    "name": "University of Missouri--Kansas City",
+    "rank": "#194",
+    "tuition_fees": "$22,714 (out-of-state)",
+    "total_enrollment": "10,462",
+    "acceptance_rate": "63.7%",
+    "address": "Kansas City, MO"
+  },
+  {
+    "name": "University of North Carolina--Charlotte",
+    "rank": "#194",
+    "tuition_fees": "$19,555 (out-of-state)",
+    "total_enrollment": "22,216",
+    "acceptance_rate": "64.1%",
+    "address": "Charlotte, NC"
+  },
+  {
+    "name": "Ashland University",
+    "rank": "#199",
+    "tuition_fees": "$20,242",
+    "total_enrollment": "3,768",
+    "acceptance_rate": "71.9%",
+    "address": "Ashland, OH"
+  },
+  {
+    "name": "Indiana University-Purdue University--Indianapolis",
+    "rank": "#199",
+    "tuition_fees": "$29,774 (out-of-state)",
+    "total_enrollment": "22,525",
+    "acceptance_rate": "70.5%",
+    "address": "Indianapolis, IN"
+  },
+  {
+    "name": "Louisiana Tech University",
+    "rank": "#199",
+    "tuition_fees": "$25,851 (out-of-state)",
+    "total_enrollment": "9,532",
+    "acceptance_rate": "65%",
+    "address": "Ruston, LA"
+  },
+  {
+    "name": "New Mexico State University",
+    "rank": "#199",
+    "tuition_fees": "$21,234 (out-of-state)",
+    "total_enrollment": "12,784",
+    "acceptance_rate": "69.6%",
+    "address": "Las Cruces, NM"
+  },
+  {
+    "name": "University of Colorado--Denver",
+    "rank": "#199",
+    "tuition_fees": "$29,334 (out-of-state)",
+    "total_enrollment": "13,509",
+    "acceptance_rate": "73%",
+    "address": "Denver, CO"
+  },
+  {
+    "name": "Barry University",
+    "rank": "RNP",
+    "tuition_fees": "$28,160",
+    "total_enrollment": "3,996",
+    "acceptance_rate": "46.1%",
+    "address": "Miami Shores, FL"
+  },
+  {
+    "name": "Benedictine University",
+    "rank": "RNP",
+    "tuition_fees": "$26,950",
+    "total_enrollment": "3,818",
+    "acceptance_rate": "77.2%",
+    "address": "Lisle, IL"
+  },
+  {
+    "name": "Bowie State University",
+    "rank": "RNP",
+    "tuition_fees": "$18,140 (out-of-state)",
+    "total_enrollment": "4,456",
+    "acceptance_rate": "53.6%",
+    "address": "Bowie, MD"
+  },
+  {
+    "name": "Cardinal Stritch University",
+    "rank": "RNP",
+    "tuition_fees": "$27,540",
+    "total_enrollment": "2,308",
+    "acceptance_rate": "83%",
+    "address": "Milwaukee, WI"
+  },
+  {
+    "name": "Clark Atlanta University",
+    "rank": "RNP",
+    "tuition_fees": "$20,886",
+    "total_enrollment": "2,567",
+    "acceptance_rate": "84.7%",
+    "address": "Atlanta, GA"
+  },
+  {
+    "name": "Cleveland State University",
+    "rank": "RNP",
+    "tuition_fees": "$13,156 (out-of-state)",
+    "total_enrollment": "12,194",
+    "acceptance_rate": "67.1%",
+    "address": "Cleveland, OH"
+  },
+  {
+    "name": "East Tennessee State University",
+    "rank": "RNP",
+    "tuition_fees": "$17,917 (out-of-state)",
+    "total_enrollment": "11,550",
+    "acceptance_rate": "91.7%",
+    "address": "Johnson City, TN"
+  },
+  {
+    "name": "Florida A\u0026M University",
+    "rank": "RNP",
+    "tuition_fees": "$17,726 (out-of-state)",
+    "total_enrollment": "8,495",
+    "acceptance_rate": "49%",
+    "address": "Tallahassee, FL"
+  },
+  {
+    "name": "Florida Atlantic University",
+    "rank": "RNP",
+    "tuition_fees": "$21,595 (out-of-state)",
+    "total_enrollment": "25,209",
+    "acceptance_rate": "66%",
+    "address": "Boca Raton, FL"
+  },
+  {
+    "name": "Florida International University",
+    "rank": "RNP",
+    "tuition_fees": "$18,895 (out-of-state)",
+    "total_enrollment": "40,974",
+    "acceptance_rate": "47.6%",
+    "address": "Miami, FL"
+  },
+  {
+    "name": "Georgia Southern University",
+    "rank": "RNP",
+    "tuition_fees": "$20,536 (out-of-state)",
+    "total_enrollment": "18,004",
+    "acceptance_rate": "63.1%",
+    "address": "Statesboro, GA"
+  },
+  {
+    "name": "Georgia State University",
+    "rank": "RNP",
+    "tuition_fees": "$28,896 (out-of-state)",
+    "total_enrollment": "25,315",
+    "acceptance_rate": "57.1%",
+    "address": "Atlanta, GA"
+  },
+  {
+    "name": "Indiana State University",
+    "rank": "RNP",
+    "tuition_fees": "$18,346 (out-of-state)",
+    "total_enrollment": "10,881",
+    "acceptance_rate": "82.5%",
+    "address": "Terre Haute, IN"
+  },
+  {
+    "name": "Indiana University of Pennsylvania",
+    "rank": "RNP",
+    "tuition_fees": "$19,700 (out-of-state)",
+    "total_enrollment": "12,130",
+    "acceptance_rate": "94.7%",
+    "address": "Indiana, PA"
+  },
+  {
+    "name": "Jackson State University",
+    "rank": "RNP",
+    "tuition_fees": "$16,174 (out-of-state)",
+    "total_enrollment": "7,199",
+    "acceptance_rate": "26.1%",
+    "address": "Jackson, MS"
+  },
+  {
+    "name": "Lamar University",
+    "rank": "RNP",
+    "tuition_fees": "$21,421 (out-of-state)",
+    "total_enrollment": "9,279",
+    "acceptance_rate": "78.4%",
+    "address": "Beaumont, TX"
+  },
+  {
+    "name": "Lynn University",
+    "rank": "RNP",
+    "tuition_fees": "$35,200",
+    "total_enrollment": "1,976",
+    "acceptance_rate": "74.9%",
+    "address": "Boca Raton, FL"
+  },
+  {
+    "name": "Middle Tennessee State University",
+    "rank": "RNP",
+    "tuition_fees": "$24,434 (out-of-state)",
+    "total_enrollment": "20,262",
+    "acceptance_rate": "72.1%",
+    "address": "Murfreesboro, TN"
+  },
+  {
+    "name": "Montana State University",
+    "rank": "RNP",
+    "tuition_fees": "$21,961 (out-of-state)",
+    "total_enrollment": "13,371",
+    "acceptance_rate": "83.9%",
+    "address": "Bozeman, MT"
+  },
+  {
+    "name": "Morgan State University",
+    "rank": "RNP",
+    "tuition_fees": "$16,862 (out-of-state)",
+    "total_enrollment": "6,302",
+    "acceptance_rate": "65.3%",
+    "address": "Baltimore, MD"
+  },
+  {
+    "name": "National Louis University",
+    "rank": "RNP",
+    "tuition_fees": "$12,867",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Chicago, IL"
+  },
+  {
+    "name": "North Carolina A\u0026T State University",
+    "rank": "RNP",
+    "tuition_fees": "$18,632 (out-of-state)",
+    "total_enrollment": "9,203",
+    "acceptance_rate": "57.6%",
+    "address": "Greensboro, NC"
+  },
+  {
+    "name": "Northern Arizona University",
+    "rank": "RNP",
+    "tuition_fees": "$23,348 (out-of-state)",
+    "total_enrollment": "23,845",
+    "acceptance_rate": "90.5%",
+    "address": "Flagstaff, AZ"
+  },
+  {
+    "name": "Northern Illinois University",
+    "rank": "RNP",
+    "tuition_fees": "$23,891 (out-of-state)",
+    "total_enrollment": "15,435",
+    "acceptance_rate": "50.9%",
+    "address": "DeKalb, IL"
+  },
+  {
+    "name": "Nova Southeastern University",
+    "rank": "RNP",
+    "tuition_fees": "$27,660",
+    "total_enrollment": "4,699",
+    "acceptance_rate": "48.8%",
+    "address": "Ft. Lauderdale, FL"
+  },
+  {
+    "name": "Oakland University",
+    "rank": "RNP",
+    "tuition_fees": "$24,735 (out-of-state)",
+    "total_enrollment": "16,935",
+    "acceptance_rate": "67.4%",
+    "address": "Rochester, MI"
+  },
+  {
+    "name": "Old Dominion University",
+    "rank": "RNP",
+    "tuition_fees": "$26,538 (out-of-state)",
+    "total_enrollment": "20,115",
+    "acceptance_rate": "81.9%",
+    "address": "Norfolk, VA"
+  },
+  {
+    "name": "Our Lady of the Lake University",
+    "rank": "RNP",
+    "tuition_fees": "$26,148",
+    "total_enrollment": "1,595",
+    "acceptance_rate": "49.5%",
+    "address": "San Antonio, TX"
+  },
+  {
+    "name": "Portland State University",
+    "rank": "RNP",
+    "tuition_fees": "$23,319 (out-of-state)",
+    "total_enrollment": "22,136",
+    "acceptance_rate": "84.8%",
+    "address": "Portland, OR"
+  },
+  {
+    "name": "Regent University",
+    "rank": "RNP",
+    "tuition_fees": "$16,638",
+    "total_enrollment": "2,410",
+    "acceptance_rate": "80.3%",
+    "address": "Virginia Beach, VA"
+  },
+  {
+    "name": "Sam Houston State University",
+    "rank": "RNP",
+    "tuition_fees": "$21,037 (out-of-state)",
+    "total_enrollment": "16,819",
+    "acceptance_rate": "73.7%",
+    "address": "Huntsville, TX"
+  },
+  {
+    "name": "Spalding University",
+    "rank": "RNP",
+    "tuition_fees": "$22,950",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "81.1%",
+    "address": "Louisville, KY"
+  },
+  {
+    "name": "Tennessee State University",
+    "rank": "RNP",
+    "tuition_fees": "$21,287 (out-of-state)",
+    "total_enrollment": "7,073",
+    "acceptance_rate": "53%",
+    "address": "Nashville, TN"
+  },
+  {
+    "name": "Texas A\u0026M University--Commerce",
+    "rank": "RNP",
+    "tuition_fees": "$19,132 (out-of-state)",
+    "total_enrollment": "7,148",
+    "acceptance_rate": "47.8%",
+    "address": "Commerce, TX"
+  },
+  {
+    "name": "Texas A\u0026M University--Corpus Christi",
+    "rank": "RNP",
+    "tuition_fees": "$20,208 (out-of-state)",
+    "total_enrollment": "9,058",
+    "acceptance_rate": "60.6%",
+    "address": "Corpus Christi, TX"
+  },
+  {
+    "name": "Texas A\u0026M University--Kingsville",
+    "rank": "RNP",
+    "tuition_fees": "$18,294 (out-of-state)",
+    "total_enrollment": "6,302",
+    "acceptance_rate": "83.5%",
+    "address": "Kingsville, TX"
+  },
+  {
+    "name": "Texas Southern University",
+    "rank": "RNP",
+    "tuition_fees": "$18,986 (out-of-state)",
+    "total_enrollment": "6,915",
+    "acceptance_rate": "51.3%",
+    "address": "Houston, TX"
+  },
+  {
+    "name": "Texas Woman's University",
+    "rank": "RNP",
+    "tuition_fees": "$20,222 (out-of-state)",
+    "total_enrollment": "9,679",
+    "acceptance_rate": "85.3%",
+    "address": "Denton, TX"
+  },
+  {
+    "name": "Trevecca Nazarene University",
+    "rank": "RNP",
+    "tuition_fees": "$23,748",
+    "total_enrollment": "1,677",
+    "acceptance_rate": "73.1%",
+    "address": "Nashville, TN"
+  },
+  {
+    "name": "Trinity International University",
+    "rank": "RNP",
+    "tuition_fees": "$28,700",
+    "total_enrollment": "1,099",
+    "acceptance_rate": "97%",
+    "address": "Deerfield, IL"
+  },
+  {
+    "name": "University of Akron",
+    "rank": "RNP",
+    "tuition_fees": "$19,040 (out-of-state)",
+    "total_enrollment": "19,723",
+    "acceptance_rate": "95.7%",
+    "address": "Akron, OH"
+  },
+  {
+    "name": "University of Alaska--Fairbanks",
+    "rank": "RNP",
+    "tuition_fees": "$21,350 (out-of-state)",
+    "total_enrollment": "7,563",
+    "acceptance_rate": "73.9%",
+    "address": "Fairbanks, AK"
+  },
+  {
+    "name": "University of Arkansas--Little Rock",
+    "rank": "RNP",
+    "tuition_fees": "$19,235 (out-of-state)",
+    "total_enrollment": "9,384",
+    "acceptance_rate": "62%",
+    "address": "Little Rock, AR"
+  },
+  {
+    "name": "University of Louisiana--Lafayette",
+    "rank": "RNP",
+    "tuition_fees": "$19,348 (out-of-state)",
+    "total_enrollment": "15,574",
+    "acceptance_rate": "55.8%",
+    "address": "Lafayette, LA"
+  },
+  {
+    "name": "University of Massachusetts--Boston",
+    "rank": "RNP",
+    "tuition_fees": "$28,390 (out-of-state)",
+    "total_enrollment": "12,700",
+    "acceptance_rate": "70.8%",
+    "address": "Boston, MA"
+  },
+  {
+    "name": "University of Memphis",
+    "rank": "RNP",
+    "tuition_fees": "$13,275 (out-of-state)",
+    "total_enrollment": "17,068",
+    "acceptance_rate": "48.7%",
+    "address": "Memphis, TN"
+  },
+  {
+    "name": "University of Missouri--St. Louis",
+    "rank": "RNP",
+    "tuition_fees": "$25,512 (out-of-state)",
+    "total_enrollment": "13,887",
+    "acceptance_rate": "75.7%",
+    "address": "St. Louis, MO"
+  },
+  {
+    "name": "University of Montana",
+    "rank": "RNP",
+    "tuition_fees": "$23,845 (out-of-state)",
+    "total_enrollment": "9,447",
+    "acceptance_rate": "94.2%",
+    "address": "Missoula, MT"
+  },
+  {
+    "name": "University of Nebraska--Omaha",
+    "rank": "RNP",
+    "tuition_fees": "$18,610 (out-of-state)",
+    "total_enrollment": "12,221",
+    "acceptance_rate": "78.5%",
+    "address": "Omaha, NE"
+  },
+  {
+    "name": "University of Nevada--Las Vegas",
+    "rank": "RNP",
+    "tuition_fees": "$20,852 (out-of-state)",
+    "total_enrollment": "23,813",
+    "acceptance_rate": "86.9%",
+    "address": "Las Vegas, NV"
+  },
+  {
+    "name": "University of New Orleans",
+    "rank": "RNP",
+    "tuition_fees": "$21,092 (out-of-state)",
+    "total_enrollment": "7,152",
+    "acceptance_rate": "43.7%",
+    "address": "New Orleans, LA"
+  },
+  {
+    "name": "University of Northern Colorado",
+    "rank": "RNP",
+    "tuition_fees": "$19,277 (out-of-state)",
+    "total_enrollment": "9,424",
+    "acceptance_rate": "70.9%",
+    "address": "Greeley, CO"
+  },
+  {
+    "name": "University of North Texas",
+    "rank": "RNP",
+    "tuition_fees": "$21,791 (out-of-state)",
+    "total_enrollment": "29,723",
+    "acceptance_rate": "62.1%",
+    "address": "Denton, TX"
+  },
+  {
+    "name": "University of South Alabama",
+    "rank": "RNP",
+    "tuition_fees": "$17,628 (out-of-state)",
+    "total_enrollment": "11,479",
+    "acceptance_rate": "83.5%",
+    "address": "Mobile, AL"
+  },
+  {
+    "name": "University of Southern Mississippi",
+    "rank": "RNP",
+    "tuition_fees": "$16,094 (out-of-state)",
+    "total_enrollment": "12,005",
+    "acceptance_rate": "66.7%",
+    "address": "Hattiesburg, MS"
+  },
+  {
+    "name": "University of Texas--Arlington",
+    "rank": "RNP",
+    "tuition_fees": "$18,102 (out-of-state)",
+    "total_enrollment": "29,883",
+    "acceptance_rate": "61.4%",
+    "address": "Arlington, TX"
+  },
+  {
+    "name": "University of Texas--El Paso",
+    "rank": "RNP",
+    "tuition_fees": "$18,759 (out-of-state)",
+    "total_enrollment": "19,817",
+    "acceptance_rate": "99.9%",
+    "address": "El Paso, TX"
+  },
+  {
+    "name": "University of Texas--San Antonio",
+    "rank": "RNP",
+    "tuition_fees": "$20,890 (out-of-state)",
+    "total_enrollment": "24,285",
+    "acceptance_rate": "75.9%",
+    "address": "San Antonio, TX"
+  },
+  {
+    "name": "University of Toledo",
+    "rank": "RNP",
+    "tuition_fees": "$18,906 (out-of-state)",
+    "total_enrollment": "16,090",
+    "acceptance_rate": "94.7%",
+    "address": "Toledo, OH"
+  },
+  {
+    "name": "University of West Florida",
+    "rank": "RNP",
+    "tuition_fees": "$21,838 (out-of-state)",
+    "total_enrollment": "10,072",
+    "acceptance_rate": "41.7%",
+    "address": "Pensacola, FL"
+  },
+  {
+    "name": "University of Wisconsin--Milwaukee",
+    "rank": "RNP",
+    "tuition_fees": "$19,610 (out-of-state)",
+    "total_enrollment": "23,079",
+    "acceptance_rate": "74.7%",
+    "address": "Milwaukee, WI"
+  },
+  {
+    "name": "Utah State University",
+    "rank": "RNP",
+    "tuition_fees": "$19,133 (out-of-state)",
+    "total_enrollment": "24,271",
+    "acceptance_rate": "97.8%",
+    "address": "Logan, UT"
+  },
+  {
+    "name": "Wayne State University",
+    "rank": "RNP",
+    "tuition_fees": "$26,592 (out-of-state)",
+    "total_enrollment": "18,347",
+    "acceptance_rate": "77.3%",
+    "address": "Detroit, MI"
+  },
+  {
+    "name": "Wichita State University",
+    "rank": "RNP",
+    "tuition_fees": "$16,697 (out-of-state)",
+    "total_enrollment": "11,979",
+    "acceptance_rate": "95.5%",
+    "address": "Wichita, KS"
+  },
+  {
+    "name": "Wright State University",
+    "rank": "RNP",
+    "tuition_fees": "$17,098 (out-of-state)",
+    "total_enrollment": "12,682",
+    "acceptance_rate": "96.8%",
+    "address": "Dayton, OH"
+  },
+  {
+    "name": "Alliant International University",
+    "rank": "Unranked",
+    "tuition_fees": "$19,930",
+    "total_enrollment": "1,450",
+    "acceptance_rate": "N/A",
+    "address": "San Diego, CA"
+  },
+  {
+    "name": "Argosy University",
+    "rank": "Unranked",
+    "tuition_fees": "$13,663",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Orange, CA"
+  },
+  {
+    "name": "California Institute of Integral Studies",
+    "rank": "Unranked",
+    "tuition_fees": "N/A",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "San Francisco, CA"
+  },
+  {
+    "name": "Capella University",
+    "rank": "Unranked",
+    "tuition_fees": "$12,816",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Minneapolis, MN"
+  },
+  {
+    "name": "Colorado Technical University",
+    "rank": "Unranked",
+    "tuition_fees": "$11,327",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Colorado Springs, CO"
+  },
+  {
+    "name": "Idaho State University",
+    "rank": "Unranked",
+    "tuition_fees": "$19,326 (out-of-state)",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Pocatello, ID"
+  },
+  {
+    "name": "Northcentral University",
+    "rank": "Unranked",
+    "tuition_fees": "N/A",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Prescott Valley, AZ"
+  },
+  {
+    "name": "Trident University International",
+    "rank": "Unranked",
+    "tuition_fees": "$8,400",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Cypress, CA"
+  },
+  {
+    "name": "Union Institute and University",
+    "rank": "Unranked",
+    "tuition_fees": "$11,904",
+    "total_enrollment": "1,085",
+    "acceptance_rate": "N/A",
+    "address": "Cincinnati, OH"
+  },
+  {
+    "name": "University of Phoenix",
+    "rank": "Unranked",
+    "tuition_fees": "N/A",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "N/A",
+    "address": "Phoenix, AZ"
+  },
+  {
+    "name": "Walden University",
+    "rank": "Unranked",
+    "tuition_fees": "$14,300",
+    "total_enrollment": "N/A",
+    "acceptance_rate": "98%",
+    "address": "Minneapolis, MN"
+  },
+  {
+    "name": "Wilmington University",
+    "rank": "Unranked",
+    "tuition_fees": "$10,430",
+    "total_enrollment": "9,228",
+    "acceptance_rate": "99.9%",
+    "address": "New Castle, DE"
+  }
+]

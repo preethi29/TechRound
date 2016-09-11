@@ -1,0 +1,16 @@
+<div>
+  <h2 class="page-header text-center">Top US Universities</h2>
+  <table class="table table-striped">
+    <tr>
+      <th><h4>Name</h4></th>
+      <th><h4>Rank</h4></th>
+      <th><h4>Tuition fees</h4></th>
+      <th><h4>Total Enrollment</h4></th>
+      <th><h4>Acceptance Rate</h4></th>
+    </tr>
+    <% @paginated_colleges.each do |college| %>
+        <%= render partial: 'colleges/college', locals: {college: college} %>
+    <% end %>
+  </table>
+    <%= will_paginate( @paginated_colleges, :renderer => WillPaginate::ActionView::LinkRenderer)%>
+</div>
